@@ -5,3 +5,15 @@
 #javaScripts {
   display: inline;
 }
+
+.defAppear {
+  display: block;
+}
+
+.defInitHidden {
+  display: none;
+}
+
+.defHidden {
+  display: block;
+}
